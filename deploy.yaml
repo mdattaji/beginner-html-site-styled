@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: my-app-container
-          image: project
+          image: finalproject
           ports:
             - containerPort: 80
